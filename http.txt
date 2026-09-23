@@ -28,6 +28,8 @@ http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -37,6 +39,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
